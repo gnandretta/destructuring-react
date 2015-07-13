@@ -9,3 +9,7 @@ body {
 span:not(:last-child)::after {
   content: ':';
 }
+
+p {
+  font-size: 16px;
+}
